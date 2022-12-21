@@ -47,8 +47,8 @@
 
 # Лабораторная работа №3
 
-* Проект: [файл сценария](https://github.com/GhostLightnin/NETTech/blob/main/NETTechNetworkSetup/NETTechProject.pka?raw=true);
-* Информация о настройке устройств: [информация о сценарии](https://github.com/GhostLightnin/NETTech/blob/main/NETTechNetworkSetup/NETTechInfo.pdf);
+* Проект: [файл сценария](https://github.com/kingdushback/internet-tech/blob/main/NETTechNetworkSetup/NETTechProject.pka?raw=true);
+* Информация о настройке устройств: [информация о сценарии](https://github.com/kingdushback/internet-tech/blob/main/NETTechNetworkSetup/NETTechInfo.pdf);
 * Скрипты настрйки устройств указаны в документе с информацией.
 
 
