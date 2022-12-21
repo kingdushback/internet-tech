@@ -55,4 +55,8 @@
 * Информация о настройке устройств: [информация о сценарии](https://github.com/kingdushback/internet-tech/blob/main/NETTechNetworkSetup/NETTechInfo.pdf);
 * Скрипты настрйки устройств указаны в документе с информацией.
 
+# Экзаменационный билет
+
+* В рамках подготвки к экзамену, помогал в составлении шпаргалки к экзаменационному билету №27.
+* [Ссылка](https://github.com/stankin/inet-2022/wiki/exam27/_compare/a2e96ad464eaeef13fcef1f1810f9ccdffd5df1a...f91c17fa42667211e3cd884de81cb3cca2936763) на именения внесенные коммитом.
 
