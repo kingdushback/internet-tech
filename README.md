@@ -45,6 +45,10 @@
 * Распределённая система управления версиями Git;
 * Веб-сервис для хостинга IT-проектов и их совместной разработки GitHub.
 
+### Ссылки
+* Ссылка на репозиторий проекта: [репозиторий](https://github.com/GhostLightnin/WebDBProject)
+* Ссылка на Landing Page проекта: [Landing](https://ghostlightnin.github.io/Landing/)
+
 # Лабораторная работа №3
 
 * Проект: [файл сценария](https://github.com/kingdushback/internet-tech/blob/main/NETTechNetworkSetup/NETTechProject.pka?raw=true);
